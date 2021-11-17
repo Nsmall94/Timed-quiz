@@ -1,0 +1,37 @@
+/*Final draft*/
+:root {
+    background-color: rgba(240, 2, 2, 0.945);
+}
+header {
+    display: flex;
+}
+
+body {
+    margin-top: 13%;
+}
+
+.time-container {
+    margin: auto;
+}
+
+ p {
+    text-align: center;
+    margin: 20px;
+    font-family:cursive;
+    font-weight: bold;
+}
+
+#question-element, #answer-element {
+    text-align: center;
+}
+
+#question-element {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#answer-element {
+    margin: 10px;
+}
