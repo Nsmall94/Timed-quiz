@@ -12,7 +12,7 @@ The purpose of this page is to provide a way for individuals to take timed quiz 
 https://nsmall94.github.io/Password-Generator/
 
 ## Screenshot
-!Timed-Quiz screenshot](assets/images/Slscreenshot_1.png)
+![Timed-Quiz screenshot](assets/images/Slscreenshot_1.png)
 
 ## contribution
 Made By Nick Small
