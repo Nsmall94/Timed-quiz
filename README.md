@@ -9,7 +9,7 @@ The purpose of this page is to provide a way for individuals to take timed quiz 
 * Javascript
 
 # Website
-https://nsmall94.github.io/Password-Generator/
+https://nsmall94.github.io/Timed-quiz/
 
 ## Screenshot
 ![Timed-Quiz screenshot](assets/images/Slscreenshot_1.png)
